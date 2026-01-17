@@ -103,4 +103,7 @@ DELETE | /api/movies/:id | Remove um filme | N/A |
 
 ---
 ## 👨‍💻 Autor
-Desenvolvido por Stella Hada
+Desenvolvido por
+
+|  [<img src="https://avatars.githubusercontent.com/u/91349698?v=4" width=115><br><sub>Stella Hada</sub>](https://github.com/stellahada) | 
+| :---: |
