@@ -1,4 +1,4 @@
-require('./src/config/firebase'); // Só para testar a conexão ao iniciar
+require('./src/config/firebase'); 
 
 require('dotenv').config();
 const app = require('./src/app');

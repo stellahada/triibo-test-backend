@@ -9,7 +9,6 @@ if (!admin.apps.length) {
 }
 
 const db = admin.firestore()
-
 console.log("Firebase conectado")
 
 module.exports = db

@@ -61,7 +61,7 @@ const movieController = {
         }
     },
 
-    // atualizar
+    // editar
     async update(req, res) {
         try { 
             const { id } = req.params; // pega o id da url
