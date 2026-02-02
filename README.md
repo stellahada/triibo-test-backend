@@ -1,12 +1,10 @@
-# 🎬 API de Gerenciamento de Filmes - Desafio Triibo
+# 🎬 API de Gerenciamento de Filmes 
 
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-
-> Solução desenvolvida para o teste técnico de Back-end Developer da **Triibo**.
 
 Esta API RESTful permite o gerenciamento de filmes (CRUD), integrando-se automaticamente à **OMDb API** para enriquecer os dados cadastrados e utilizando **Firebase Firestore** para persistência de dados em nuvem.
 
